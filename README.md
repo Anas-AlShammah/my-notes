@@ -15,13 +15,13 @@
 Once upon a time, in a land of computers and operating systems, there was a magical tool called **the Terminal Command Line**. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
 
 To use this tool, the people would open a window on their computer called a terminal, and start typing commands into it. These commands would **tell the computer what to do**, and the computer would respond by carrying out the task.
-![termial](https://w7.pngwing.com/pngs/247/392/png-transparent-computer-terminal-gnome-terminal-computer-icons-terminal-emulator-gnome-template-electronics-cartoon.png)
+![termial](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/1_command-line%20interface.png)
 
 * * * * * * * * * * * * * * * * * * *
 Some basic commands are:
 
 *               ls                   *
- list all the files and directories in the current folder      
+list all the files and directories in the current folder      
 *             pwd                     *
 displays the file path from the root directory to the current working directory
 *             mkdir                  *

@@ -42,12 +42,22 @@ Despite the dangers, the Terminal Command Line was a beloved tool among the peop
 ***
 ## Version control System
 
+##### Imagine this scenario
 
-sequenceDiagram
-    actor Alice
-    actor Bob
-    Alice->>Bob: Hi Bob
-    Bob->>Alice: Hi Alice
+|  Version  |Day |Status    |
+|-----|---------|---------|
+|Version1	|`1` |ok     |
+|Version2  |`2` |ok   |
+|Version3   |`3`|error code destroyed|
 
+VCS can be a solution to many problems related to software development, especially when working on projects collaboratively or when managing complex codebases. VCS allows multiple developers to work on the same codebase simultaneously, keep track of changes and revisions, and easily revert to previous versions if necessary.
+
+---
+
+```mermaid
+graph LR
+Working area -- git add -->Steging area -- git Commit -->local Repo --git push  -->Remote Repo
+
+ACP Cycle
 
 

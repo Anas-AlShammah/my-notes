@@ -1,4 +1,4 @@
-{::options parse_block_html="true" /}
+
 
 # my-notes
 >Today we start
@@ -8,13 +8,13 @@
 ![rocet](https://i.gifer.com/D4a.gif)
 
 # Termial command line 
-<span style="color:red;">This text is red</span>
 
 
 
-Once upon a time, in a land of computers and operating systems, there was a magical tool called the Terminal Command Line. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
 
-To use this tool, the people would open a window on their computer called a terminal, and start typing commands into it. These commands would tell the computer what to do, and the computer would respond by carrying out the task.
+Once upon a time, in a land of computers and operating systems, there was a magical tool called **the Terminal Command Line**. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
+
+To use this tool, the people would open a window on their computer called a terminal, and start typing commands into it. These commands would **tell the computer what to do**, and the computer would respond by carrying out the task.
 ![termial](https://w7.pngwing.com/pngs/247/392/png-transparent-computer-terminal-gnome-terminal-computer-icons-terminal-emulator-gnome-template-electronics-cartoon.png)
 
 * * * * * * * * * * * * * * * * * * *
@@ -30,5 +30,28 @@ make a new directory in the filesystem according to its argument
 used to move throughout the filesystem of a computer. 
 *             touch                   *
 reates a new file in the current working directory with the name provided.
+*             cp                   *
+used to copy files or directories.
 * * * * * * * * * * * * * * * * * * *
+
+But the people had to be __careful with the Terminal Command Line__, for it was a powerful tool that could cause great harm if used incorrectly. They had to remember to type each command carefully, and to always double-check before deleting files or making other important changes.
+
+Despite the dangers, the Terminal Command Line was a beloved tool among the people of the land, for it gave them great power over their computers and allowed them to accomplish tasks that would have been impossible otherwise. And so they continued to use it, honing their skills and exploring the depths of its power, for many years to come.
+
+
+***
+## Version control System
+
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+
 

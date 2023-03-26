@@ -29,7 +29,7 @@ reates a new file in the current working directory with the name provided.
 used to copy files or directories.
 * * * * * * * * * * * * * * * * * * *
 
-But the people had to be __careful with the Terminal Command Line__, for it was a powerful tool that could cause great harm if used incorrectly. They had to remember to type each command carefully, and to always double-check before deleting files or making other important changes.
+But the people had to be **careful with the Terminal Command Line**, for it was a powerful tool that could cause great harm if used incorrectly. They had to remember to type each command carefully, and to always double-check before deleting files or making other important changes.
 
 Despite the dangers, the Terminal Command Line was a beloved tool among the people of the land, for it gave them great power over their computers and allowed them to accomplish tasks that would have been impossible otherwise. And so they continued to use it, honing their skills and exploring the depths of its power, for many years to come.
 

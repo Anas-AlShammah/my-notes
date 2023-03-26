@@ -1,20 +1,15 @@
-
-
 # my-notes
+
 >Today we start
-
-
 
 ![rocet](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
 # Termial command line 
 
-
-
-
 Once upon a time, in a land of computers and operating systems, there was a magical tool called **the Terminal Command Line**. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
 
 To use this tool, the people would open a window on their computer called a terminal, and start typing commands into it. These commands would **tell the computer what to do**, and the computer would respond by carrying out the task.
+
 ![termial](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/1_command-line%20interface.png)
 
 * * * * * * * * * * * * * * * * * * *
@@ -38,7 +33,6 @@ But the people had to be __careful with the Terminal Command Line__, for it was 
 
 Despite the dangers, the Terminal Command Line was a beloved tool among the people of the land, for it gave them great power over their computers and allowed them to accomplish tasks that would have been impossible otherwise. And so they continued to use it, honing their skills and exploring the depths of its power, for many years to come.
 
-
 ***
 ## Version control System
 
@@ -53,6 +47,7 @@ Despite the dangers, the Terminal Command Line was a beloved tool among the peop
 VCS can be a solution to many problems related to software development, especially when working on projects collaboratively or when managing complex codebases. VCS allows multiple developers to work on the same codebase simultaneously, keep track of changes and revisions, and easily revert to previous versions if necessary.
 
 ---
+
 # ACP Cycle
 ```mermaid
 graph LR

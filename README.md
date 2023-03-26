@@ -53,13 +53,8 @@ Despite the dangers, the Terminal Command Line was a beloved tool among the peop
 VCS can be a solution to many problems related to software development, especially when working on projects collaboratively or when managing complex codebases. VCS allows multiple developers to work on the same codebase simultaneously, keep track of changes and revisions, and easily revert to previous versions if necessary.
 
 ---
+# ACP Cycle
+[![](https://mermaid.ink/img/pako:eNo9jrsKgzAUQH_lcuf6AxkKVcdOOnRIOlzMbQyaBzEZivrvDRTcDpwznB2noBkFmkRxhueg_EO-QlqsN0CJ6Q1Ncz-MzUBaH9DKMbO5pPLt5bvgnM0HdHINE60wcAw16K4glm0-oJcDu5D57_GGjpMjq-vDrjyAwjyzY4Wioqa0KFT-rB2VHMavn1DkVPiGJWrK3Fuq6w7Fh9aNzx_ub0c1?type=png)](https://mermaid.live/edit#pako:eNo9jrsKgzAUQH_lcuf6AxkKVcdOOnRIOlzMbQyaBzEZivrvDRTcDpwznB2noBkFmkRxhueg_EO-QlqsN0CJ6Q1Ncz-MzUBaH9DKMbO5pPLt5bvgnM0HdHINE60wcAw16K4glm0-oJcDu5D57_GGjpMjq-vDrjyAwjyzY4Wioqa0KFT-rB2VHMavn1DkVPiGJWrK3Fuq6w7Fh9aNzx_ub0c1)
 
-```mermaid
-graph LR
-A[Working area] -->|git add| B[Steging area]
-B -->|git Commit| C{local Repo}
-C -->|git push| D[Remote Repo]
-
-ACP Cycle
 
 

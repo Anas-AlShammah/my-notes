@@ -54,7 +54,12 @@ VCS can be a solution to many problems related to software development, especial
 
 ---
 # ACP Cycle
-[![](https://mermaid.ink/img/pako:eNo9jrsKgzAUQH_lcuf6AxkKVcdOOnRIOlzMbQyaBzEZivrvDRTcDpwznB2noBkFmkRxhueg_EO-QlqsN0CJ6Q1Ncz-MzUBaH9DKMbO5pPLt5bvgnM0HdHINE60wcAw16K4glm0-oJcDu5D57_GGjpMjq-vDrjyAwjyzY4Wioqa0KFT-rB2VHMavn1DkVPiGJWrK3Fuq6w7Fh9aNzx_ub0c1?type=png)](https://mermaid.live/edit#pako:eNo9jrsKgzAUQH_lcuf6AxkKVcdOOnRIOlzMbQyaBzEZivrvDRTcDpwznB2noBkFmkRxhueg_EO-QlqsN0CJ6Q1Ncz-MzUBaH9DKMbO5pPLt5bvgnM0HdHINE60wcAw16K4glm0-oJcDu5D57_GGjpMjq-vDrjyAwjyzY4Wioqa0KFT-rB2VHMavn1DkVPiGJWrK3Fuq6w7Fh9aNzx_ub0c1)
+```mermaid
+graph LR
+A[Working area] -- git add --> B[Steging area]
+B[Working area] -- git Commit--> C[Steging area]
+C[Working area] -- git push --> D[Steging area]
+
 
 
 

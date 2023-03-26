@@ -1,6 +1,6 @@
 # my-notes
 <font color="red">Today we start<font>
-<img src="https://i.gifer.com/D4a.gif" />
+![start](https://i.gifer.com/D4a.gif)
 <font color="33FFC4" />
 ### Termial command line
 <font color="FFA533" />

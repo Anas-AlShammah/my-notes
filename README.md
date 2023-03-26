@@ -1,19 +1,25 @@
+{::options parse_block_html="true" /}
+
 # my-notes
-<font color="red">Today we start<font>
+>Today we start
 
 
 
 ![rocet](https://i.gifer.com/D4a.gif)
 
-<font color="33FFC4" />
-### Termial command line
-<font color="FFA533" />
+# Termial command line 
+<span style="color:red;">This text is red</span>
+
+
+
 Once upon a time, in a land of computers and operating systems, there was a magical tool called the Terminal Command Line. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
 
 To use this tool, the people would open a window on their computer called a terminal, and start typing commands into it. These commands would tell the computer what to do, and the computer would respond by carrying out the task.
 ![termial](https://w7.pngwing.com/pngs/247/392/png-transparent-computer-terminal-gnome-terminal-computer-icons-terminal-emulator-gnome-template-electronics-cartoon.png)
 
 * * * * * * * * * * * * * * * * * * *
+Some basic commands are:
+
 *               ls                   *
  list all the files and directories in the current folder      
 *             pwd                     *

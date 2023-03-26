@@ -56,7 +56,7 @@ VCS can be a solution to many problems related to software development, especial
 
 ```mermaid
 graph LR
-Working area -- git add -->Steging area -- git Commit -->local Repo --git push  -->Remote Repo
+A[Working area] -- git add -->B[Steging area] -- git Commit -->C[local Repo] --git push  -->D[Remote Repo]
 
 ACP Cycle
 

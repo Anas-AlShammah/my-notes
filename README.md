@@ -6,6 +6,8 @@
 
 ![rocet](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
+Hello, my name is Anas Al Shammah, and I am from Jordan. I hold a Bachelor's degree in Mathematics, and I am currently a Software Engineer and Trainee at Abdul Aziz Al Ghurair School (ASAC), where I specialize in Full Stack Development and .Net. With a passion for programming and problem-solving, I enjoy developing innovative software solutions that meet the needs of end-users. In my free time, I enjoy reading books and learning new programming languages.
+
 # Termial command line 
 
 Once upon a time, in a land of computers and operating systems, there was a magical tool called **the Terminal Command Line**. This tool allowed the people of the land to interact with their computers in a powerful and direct way.
